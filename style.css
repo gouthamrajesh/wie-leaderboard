@@ -55,7 +55,7 @@ body{
     margin-right: 150px;
     margin-top: 0px;
     border: 1px solid rgba(0, 0, 0, 0.918);
-    background-color: #32ff1c;
+    background-color: #33ff1c00;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     letter-spacing: 1px;
   }
@@ -74,7 +74,7 @@ body{
     font-weight: 500;
     font-size: 15px;
     color: rgb(0, 0, 0);
-    background-color: #94B49F;
+    background-color: #94b49f92;
     border-bottom: solid 1px rgba(255, 255, 255, 0.1);
   }
   .name
