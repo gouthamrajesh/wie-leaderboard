@@ -97,7 +97,7 @@ body{
     clear: left;
     text-align: center;
     font-size: 15px;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
     color: #fff;
     border-style:ridge;
     border-color: black;
@@ -150,7 +150,7 @@ body{
   }
   h1 {
     font-size: 30px;
-    background-color: rgba(255, 255, 255, 0.67);
+    background-color: #CC9544;
     color: rgb(33, 23, 23);
     margin-left: 10px;
     margin-right: 10px;
@@ -159,7 +159,7 @@ body{
     border-radius: 10px;
     margin-top: 30px;
     padding: 1px;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 900;
     word-spacing: 2px;
   }
